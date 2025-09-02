@@ -34,7 +34,7 @@
 
           - [Right-view-explained](Right-view-explained.md)
 
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/0.THE 4 NOBLE TRUTHS|0.THE 4 NOBLE TRUTHS]]
+         - [THE 4 NOBLE TRUTHS](README.md)
 
          - The three marks of existence
          
