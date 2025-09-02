@@ -1,3 +1,6 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7908394731090096"
+     crossorigin="anonymous"></script>
+
 NON-SATISFACTION
 
    - Non-Satisfaction of non-satisfaction (non-satisfaction due to mental and physical things)
