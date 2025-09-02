@@ -13,7 +13,7 @@ Experiences - 5 bodily experiences,
 
 
 
- All of the above together is also called [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Name-Form, nama-rupa|Name-Form, nama-rupa]].
+ All of the above together is also called [Name-Form,nama-rupa](Name-Form,nama-rupa.md).
  
 ------------------
 ------------
