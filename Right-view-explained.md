@@ -1,4 +1,3 @@
-
 Alright , let’s unfold **Right View (Sammā Diṭṭhi / Samyag-dṛṣṭi)** in detail — it’s the very first factor of the **Noble Eightfold Path**, and in many ways the foundation of the whole path.
 
 ---
