@@ -32,7 +32,7 @@
    - CLARITY
      1. RIGHT VIEW
 
-          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Right view - explained|Right view - explained]]
+          - [Right-view-explained](Right-view-explained.md)
 
          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/0.THE 4 NOBLE TRUTHS|0.THE 4 NOBLE TRUTHS]]
 
