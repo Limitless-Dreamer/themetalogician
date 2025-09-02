@@ -1,3 +1,6 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7908394731090096"
+     crossorigin="anonymous"></script>
+
 How to spot them quickly
 
 Craving - sensory desire - Kāma-tṛṣṇā → Pull toward pleasure → “I want that.”
