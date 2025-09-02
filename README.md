@@ -88,3 +88,8 @@
        - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Momentary Singularity|Momentary Singularity]]
          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)|Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]]
          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Dry-insight-experience-path|Dry-insight-experience-path]]
+        
+
+-----------------
+
+You will notice changes in the system  from time to time. It’s because the system of the 4 Noble Truths is a work in progress.
