@@ -44,7 +44,7 @@
              
              - Non-Self (There is a self but not a permanent one, it changes from moment to                    moment, it a stream of processess.)
 
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Karma-Action-points-experience|Karma-Action-points-experience]]] (The Law of cause and effect.)
+         - [Karma-Action-points-experience](Karma-Action-points-experience.md) (The Law of cause and effect.)
 
 
          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/DEPENDENT ORIGINATION-CAUSATION|DEPENDENT ORIGINATION-CAUSATION]]
