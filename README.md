@@ -6,7 +6,7 @@
 
    - Non-Satisfaction of non-satisfaction (non-satisfaction due to mental and physical things)
    - Non-Satisfaction due to non-permanent nature of satisfaction
-   - Non-Satisfaction due to clinging to the non-permanent [Five Aggregates] (Five Aggregates.md)
+   - Non-Satisfaction due to clinging to the non-permanent [Five Aggregates] (Five-Aggregates.md)
     [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Non-Satisfaction in detail|Non-Satisfaction in detail]]
 
 
