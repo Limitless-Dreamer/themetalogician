@@ -13,7 +13,7 @@
 
 1. ORIGIN
 
-     [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/How to spot cravings|How to spot cravings]]
+     [How to spot cravings](How-to-spot-cravings.md)
      1. Craving - Sensory Desire
      2. Craving - Becoming
      3. Craving - Non Becoming
