@@ -1,6 +1,5 @@
-<head> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7908394731090096"
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7908394731090096"
      crossorigin="anonymous"></script></head>
-
 
 # CREATION = CHAOS + RIGHT ORDER
 
