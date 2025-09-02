@@ -51,7 +51,7 @@
          - [DEPENDENT-ORIGINATION-CAUSATION](DEPENDENT-ORIGINATION-CAUSATION.md)
      
 	 2. RIGHT RESOLVE
-	     - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Right Resolve Explained|Right Resolve Explained]]
+	     - [Right-Resolve-Explained](Right-Resolve-Explained.md)
 	 
 	 3. RIGHT EXPERIENCE
 	     - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Experience - Explained|Experience - Explained]]
