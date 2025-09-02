@@ -1,6 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7908394731090096"
-     crossorigin="anonymous"></script>
-
 In **Buddhism**, **Name-and-Form (nāma-rūpa)** is a key concept in the **dependent origination (paṭiccasamuppāda)** framework. It explains how **mind and body interact 
 to create the sense of a living being**. Let’s break it down carefully.
 
