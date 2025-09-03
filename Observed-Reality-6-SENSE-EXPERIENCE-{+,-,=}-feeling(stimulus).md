@@ -12,5 +12,5 @@ Ex.
 - Having a bad thought - Mind Experience - (-ve) feeling
 - Recognizing/Labeling your Mind Experience - Mind Experience - (+ve) feeling
 
-- Daydream occurs - Investigating the dharma/system - Mind Experience - (+ve) stimulus
-                 - Vain Glory daydreams - Mind Experience - (-ve) stimulus 
+- Daydream occurs - Investigating the dharma/system - Mind Experience - (+ve) feeling
+                 - Vain Glory daydreams - Mind Experience - (-ve) feeling
