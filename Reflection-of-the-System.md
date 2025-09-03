@@ -6,7 +6,7 @@ Five aggregates: form, feeling, recognition/labeling, habits/volitions, awarenes
 [Five Aggregates](Five-Aggregates.md)
 
 Six sense bases: eye, ear, nose, tongue, body, mind—knowing them with clinging or without.
-[[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/6 SENSE BASES - CAUSATION|6 SENSE BASES - CAUSATION]]
+[6 SENSE BASES - CAUSATION](6-SENSE-BASES-CAUSATION.md)
 
 Seven factors of awakening: mindfulness, investigation, energy, joy, tranquility, concentration, equanimity.
 
