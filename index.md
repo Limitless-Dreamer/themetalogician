@@ -123,7 +123,7 @@
    
          - [Absorption Singularity](Absorption-Singularity.md)
             - [The 10 impediments](The-10-impediments.md)
-            - [Mastering the Absorption Singularity](Mastering-the-Absorption-Singularity)
+            - [Mastering the Absorption Singularity](Mastering-the-Absorption-Singularity.md)
    
          - [Momentary Singularity](Momentary-Singularity.md)
             - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)](Observed-Reality-6-SENSE-EXPERIENCE-{+,-,=}-feeling(stimulus).md)
