@@ -90,11 +90,11 @@
      
      8. RIGHT EFFORT
         
-      - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
+         - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
         
-      - [The 5 Hindrances](The-5-Hindrances.md)
+         - [The 5 Hindrances](The-5-Hindrances.md)
         
-      - [Custom Hindrances Way]
+         - [Custom Hindrances Way]
 
 
 
@@ -102,13 +102,14 @@
 
      9. RIGHT REFLECTION
         
-       - [Reflection of the Body]
+          - [Reflection of the Body]
      
-       - [Reflection of the Feelings/stimulus]
+          - [Reflection of the Feelings/stimulus]
          
-       - [Reflection of the Mind]
+          - [Reflection of the Mind]
          
-       - [Reflection of the System]
+          - [Reflection of the System]
+
 
 
 
@@ -117,12 +118,12 @@
         - [All types of Samadhi-Singularity]
    
         - [Absorption Singularity]
-         - [The 10 impediments]
-         - [Mastering the Absorption Singularity]
+            - [The 10 impediments]
+            - [Mastering the Absorption Singularity]
    
         - [Momentary Singularity]
-         - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]
-         - [Dry-insight-experience-path]
+            - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]
+            - [Dry-insight-experience-path]
         
 
 ---------------
