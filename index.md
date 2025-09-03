@@ -67,7 +67,7 @@
      6. RIGHT SPEECH
      7. RIGHT LIVELIHOOD
 
-      - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Right action-speech-livelihood|Right action-speech-livelihood]]
+      - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
 
    - SINGULARITY
      8. RIGHT EFFORT
