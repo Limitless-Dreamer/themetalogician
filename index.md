@@ -21,6 +21,7 @@
      1. Craving - Sensory Desire
      2. Craving - Becoming
      3. Craving - Non Becoming
+        
 ------------------
 ------------------
 
@@ -73,6 +74,7 @@
      4. RIGHT LIBERATION
          - Reality is a simulation, a dream, you must escape from it.
          - [The 10 Fetters](The-10-Fetters.md)
+           
 ----------------------
 -------------------
    - MORALITY
@@ -84,6 +86,7 @@
      7. RIGHT LIVELIHOOD
 
       - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
+     
 ---------------
 ----------------
    - SINGULARITY
