@@ -35,7 +35,7 @@
 
           - [Right-view-explained](Right-view-explained.md)
 
-         - [THE 4 NOBLE TRUTHS](README.md)
+         - [THE 4 NOBLE TRUTHS](index.md)
 
          - The three marks of existence
          
