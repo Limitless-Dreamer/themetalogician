@@ -71,24 +71,24 @@
 
    - SINGULARITY
      8. RIGHT EFFORT
-      - Starve the mind and the senses from stimuli, guarding the 6 sense doors.
-      - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/The 5 Hindrances|The 5 Hindrances]]
-      - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Custom Hindrances Way|Custom Hindrances Way]]
+      - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
+      - [The 5 Hindrances]
+      - [Custom Hindrances Way]
 
      8. RIGHT REFLECTION
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Reflection of the Body|Reflection of the Body]]
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Reflection of the Stimulus|Reflection of the Stimulus]]
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Reflection of the Mind|Reflection of the Mind]]
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Reflection of the System|Reflection of the System]]
+       - [Reflection of the Body]
+       - [Reflection of the Feelings/stimulus]
+       - [Reflection of the Mind]
+       - [Reflection of the System]
     
     8. RIGHT SINGULARITY
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/All types of Samadhi-Singularity|All types of Samadhi-Singularity]]
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Absorption Singularity|Absorption Singularity]]
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/The 10 impediments|The 10 impediments]]
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Mastering the Absorption Singularity|Mastering the Absorption Singularity]]
-       - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Momentary Singularity|Momentary Singularity]]
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)|Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]]
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Dry-insight-experience-path|Dry-insight-experience-path]]
+       - [All types of Samadhi-Singularity]
+       - [Absorption Singularity]
+         - [The 10 impediments]
+         - [Mastering the Absorption Singularity]
+       - [Momentary Singularity]
+         - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]
+         - [Dry-insight-experience-path]
         
 
 -----------------
