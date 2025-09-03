@@ -14,5 +14,5 @@ Four Noble Truths: often only briefly mentioned (later Theravāda versions expan
 
 
 Observed reality (observation) - 6 Sense Awareness - (+,-,=) feeling (stimulus) - craving - clinging (to not let go) - becoming (The 5 hindrances, etc.)
-[[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)|Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]]
+[Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)](Observed-Reality-6-SENSE-EXPERIENCE-{+,-,=}-feeling(stimulus).md)
 
