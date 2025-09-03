@@ -138,7 +138,7 @@ You will notice changes in the system  from time to time. It’s because the sys
 
 About Us
 
-Privacy Policy
+[Privacy Policy](https://policies.google.com/technologies/partner-sites)
 
 Contact Us
 
