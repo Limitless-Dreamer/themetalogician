@@ -125,7 +125,7 @@
             - [The 10 impediments](The-10-impediments.md)
             - [Mastering the Absorption Singularity](Mastering-the-Absorption-Singularity)
    
-         - [Momentary Singularity]
+         - [Momentary Singularity](Momentary-Singularity.md)
             - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)](Observed-Reality-6-SENSE-EXPERIENCE-{+,-,=}-feeling(stimulus).md)
             - [Dry-insight-experience-path](Dry-insight-experience-path.md)
         
