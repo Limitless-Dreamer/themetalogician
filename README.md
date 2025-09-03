@@ -94,3 +94,11 @@
 -----------------
 
 You will notice changes in the system  from time to time. It’s because the system of the 4 Noble Truths is a work in progress.
+
+-----------------
+
+About Us
+
+Privacy Policy
+
+Contact Us
