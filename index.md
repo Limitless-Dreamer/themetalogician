@@ -12,14 +12,14 @@
      [Non-Satisfaction-in-detail](Non-Satisfaction-in-detail.md)
 
 
-1. ORIGIN
+2. ORIGIN
 
      [How to spot cravings](How-to-spot-cravings.md)
      1. Craving - Sensory Desire
      2. Craving - Becoming
      3. Craving - Non Becoming
 
-2. DELETE
+3. DELETE
       - Nirvana = to blow out, to be unbound, to become limitless, liberation
 
      - Dissolving is not the right way, liberation is. 
@@ -28,9 +28,10 @@
 
      - Liberation is when Experience lets go of the 6 clinging sense-experiences and the 5 clinging aggregates 
 
-3. PATH
+4. PATH
 
    - CLARITY
+   
      1. RIGHT VIEW
 
           - [Right-view-explained](Right-view-explained.md)
@@ -65,25 +66,31 @@
    - MORALITY
      
      5. RIGHT ACTION
+     
      6. RIGHT SPEECH
+     
      7. RIGHT LIVELIHOOD
 
       - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
 
+
    - SINGULARITY
+  
      
      8. RIGHT EFFORT
       - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
       - [The 5 Hindrances](The-5-Hindrances.md)
       - [Custom Hindrances Way]
 
-     8. RIGHT REFLECTION
+
+     9. RIGHT REFLECTION
        - [Reflection of the Body]
        - [Reflection of the Feelings/stimulus]
        - [Reflection of the Mind]
        - [Reflection of the System]
+
     
-    8. RIGHT SINGULARITY
+    10. RIGHT SINGULARITY
        - [All types of Samadhi-Singularity]
        - [Absorption Singularity]
          - [The 10 impediments]
