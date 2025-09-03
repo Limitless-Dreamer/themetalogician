@@ -2,7 +2,8 @@
 # CREATION = CHAOS + RIGHT ORDER
 
 ## THE SYSTEM OF THE FOUR NOBLE TRUTHS
-
+--------------
+--------------
 1. NON-SATISFACTION
 
    - Non-Satisfaction of non-satisfaction (non-satisfaction due to mental and physical things)
@@ -11,6 +12,8 @@
 
      [Non-Satisfaction-in-detail](Non-Satisfaction-in-detail.md)
 
+--------------
+----------------
 
 2. ORIGIN
 
@@ -18,6 +21,8 @@
      1. Craving - Sensory Desire
      2. Craving - Becoming
      3. Craving - Non Becoming
+------------------
+------------------
 
 3. DELETE
       - Nirvana = to blow out, to be unbound, to become limitless, liberation
@@ -27,9 +32,11 @@
      - The difference between people makes love beautiful.
 
      - Liberation is when Experience lets go of the 6 clinging sense-experiences and the 5 clinging aggregates 
-
+-----------------
+-----------------
 4. PATH
-
+------------------------
+--------------------
    - CLARITY
    
      1. RIGHT VIEW
@@ -50,19 +57,23 @@
 
 
          - [DEPENDENT-ORIGINATION-CAUSATION](DEPENDENT-ORIGINATION-CAUSATION.md)
+
+--------------------------
      
 	 2. RIGHT RESOLVE
 	     - [Right-Resolve-Explained](Right-Resolve-Explained.md)
+--------------
 	 
 	 3. RIGHT EXPERIENCE
 	     - [Experience-Explained](Experience-Explained)
 		 - [16 Experiences for the DRY EXPERIENCE PATH](16-Experiences-for-the-DRY-EXPERIENCE-PATH.md)
 	       
-
+-------------
      4. RIGHT LIBERATION
          - Reality is a simulation, a dream, you must escape from it.
          - [The 10 Fetters](The-10-Fetters.md)
-
+----------------------
+-------------------
    - MORALITY
      
      5. RIGHT ACTION
@@ -72,10 +83,10 @@
      7. RIGHT LIVELIHOOD
 
       - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
-
-
+---------------
+--------------
    - SINGULARITY
-  
+--------------------  
      
      8. RIGHT EFFORT
         
@@ -85,7 +96,7 @@
         
       - [Custom Hindrances Way]
 
-
+-------------------------
 
  
 
@@ -99,7 +110,7 @@
          
        - [Reflection of the System]
 
-
+-----------------------------
 
 
      10. RIGHT SINGULARITY
