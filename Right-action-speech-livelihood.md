@@ -6,10 +6,10 @@
 -----------------
 ---------------------
 
-- ==MORALITY==
+- ## **MORALITY**
 
 
-     5. ==RIGHT ACTION==
+     5. ### RIGHT ACTION
 
           1. **Right Action (sammā-kammanta)**
 
@@ -34,7 +34,7 @@
 
 
 
-     6. ==RIGHT SPEECH==
+     6. ### RIGHT SPEECH
          - **Right Speech (sammā-vācā)**
 
          This means abstaining from four types of harmful speech and cultivating wholesome communication:
@@ -60,7 +60,7 @@
     
           - Meaningful, purposeful, beneficial communication.
 
-     7. ==RIGHT LIVELIHOOD==
+     7. ### RIGHT LIVELIHOOD
 
          - 1. **Right Livelihood (sammā-ājīva)**
 
@@ -93,7 +93,7 @@
     
            - They create harmony with others.
     
-           - They purify the mind, making it lighter and more peaceful, ready for                concentration and insight.
+           - They purify the mind, making it lighter and more peaceful, ready for concentration and insight.
     
 
 ---
