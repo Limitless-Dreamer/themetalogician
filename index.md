@@ -59,7 +59,7 @@
 	       
 
      4. RIGHT LIBERATION
-         - Reality is a simulation, you must escape from it.
+         - Reality is a simulation, a dream, you must escape from it.
          - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/The 10 Fetters|The 10 Fetters]]
 
    - MORALITY
