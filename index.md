@@ -72,7 +72,7 @@
 	       
 
      4. RIGHT LIBERATION
-         - Reality is a simulation, a dream, you must escape from it.
+         - The hypothesis is that Reality is a simulation, a dream. Therefore you must escape from it.
          - [The 10 Fetters](The-10-Fetters.md)
            
 ----------------------
