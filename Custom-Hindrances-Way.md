@@ -1,5 +1,7 @@
 
-Temptation - Craving - Sensory Desire ( Desire from the 5 bodily senses)
+Temptation :
+
+   - Craving - Sensory Desire ( Desire from the 5 bodily senses)
 
    - Craving - Becoming ( I want to become )
 
@@ -8,7 +10,9 @@ Temptation - Craving - Sensory Desire ( Desire from the 5 bodily senses)
 
 
 
-Repulsion - ill will
+Repulsion :
+
+   - ill will
 
    - [Repulsion-Fear](Repulsion-Fear.md)
 
