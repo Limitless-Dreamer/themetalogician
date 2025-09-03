@@ -41,9 +41,9 @@
          
              - Non-Permanence ( Reality is non-permanent, just a stream of processes.)
              
-             - Non-Satisfaction (Everything is conditioned, therefore everything is non-                                         satisfactory.)
+             - Non-Satisfaction (Everything is conditioned, therefore everything is non-satisfactory.)
              
-             - Non-Self (There is a self but not a permanent one, it changes from moment to                    moment, it a stream of processess.)
+             - Non-Self (There is a self but not a permanent one, it changes from moment to moment, it a stream of processess.)
 
          - [Karma-Action-points-experience](Karma-Action-points-experience.md) (The Law of cause and effect.)
 
@@ -60,7 +60,7 @@
 
      4. RIGHT LIBERATION
          - Reality is a simulation, a dream, you must escape from it.
-         - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/The 10 Fetters|The 10 Fetters]]
+         - [The 10 Fetters](The-10-Fetters.md)
 
    - MORALITY
      5. RIGHT ACTION
