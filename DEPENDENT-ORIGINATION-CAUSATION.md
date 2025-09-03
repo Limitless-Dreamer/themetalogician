@@ -26,8 +26,11 @@ Birth
 ↓
 Old Age & Death
  
-The Twelve Nidanas is a linear list of twelve elements from the Buddhist teachings which arise in dependence on the preceding link. While this list may be interpreted as describing the processes which give rise to rebirth, in essence it describes the arising of dukkha as a psychological process, without the involvement of an atman.[56][57]
-![Screenshot_20250809-205937.png]
+The Twelve Nidanas is a linear list of twelve elements from the Buddhist teachings which arise in dependence on the preceding link. While this list may be interpreted as describing the processes which give rise to rebirth, in essence it describes the arising of dukkha as a psychological process, without the involvement of an atman.
+
+
+<img width="1080" height="1695" alt="Screenshot_20250809-205937" src="https://github.com/user-attachments/assets/317a6e86-33a8-4172-a81b-53b1a78fe0ec" />
+
 
 
 | Nidana term: Pali (Sanskrit)                                                                                  | Chinese character used in SA[[81]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-92)                                                         | Translations[[45]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-:12-51)[[82]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-93)[[8]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-Payutto4-9)[[78]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-:32-89)[[80]](https://en.m.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#cite_note-:24-91) | Analysis (_vibhaṅga_) found in the early sources                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
