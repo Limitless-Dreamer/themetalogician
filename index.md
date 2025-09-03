@@ -106,28 +106,28 @@
 
      9. RIGHT REFLECTION
         
-          - [Reflection of the Body]
+          - [Reflection of the Body](Reflection-of-the-Body.md)
      
-          - [Reflection of the Feelings/stimulus]
+          - [Reflection of the Feelings](Reflection-of-the-Feelings.md)
          
-          - [Reflection of the Mind]
+          - [Reflection of the Mind](Reflection-of-the-Mind.md)
          
-          - [Reflection of the System]
+          - [Reflection of the System](Reflection-of-the-System.md)
 
 
 
 
      10. RIGHT SINGULARITY
         
-         - [All types of Samadhi-Singularity]
+         - [All types of Samadhi-Singularity](All-types-of-Smadhi-Singularity.md)
    
-         - [Absorption Singularity]
-            - [The 10 impediments]
-            - [Mastering the Absorption Singularity]
+         - [Absorption Singularity](Absorption-Singularity.md)
+            - [The 10 impediments](The-10-impediments.md)
+            - [Mastering the Absorption Singularity](Mastering-the-Absorption-Singularity)
    
          - [Momentary Singularity]
-            - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]
-            - [Dry-insight-experience-path]
+            - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)](Observed-Reality-6-SENSE-EXPERIENCE-{+,-,=}-feeling(stimulus).md)
+            - [Dry-insight-experience-path](Dry-insight-experience-path.md)
         
 
 ---------------
