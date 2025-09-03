@@ -55,7 +55,7 @@
 	 
 	 3. RIGHT EXPERIENCE
 	     - [Experience-Explained](Experience-Explained)
-		 - [16 Experiences for the DRY EXPERIENCE PATH](16-Experiences-for-the-DRY-EXPERIENCE-PATH)
+		 - [16 Experiences for the DRY EXPERIENCE PATH](16-Experiences-for-the-DRY-EXPERIENCE-PATH.md)
 	       
 
      4. RIGHT LIBERATION
