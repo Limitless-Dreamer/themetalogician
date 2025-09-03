@@ -85,6 +85,8 @@
         
       - [Custom Hindrances Way]
 
+
+
  
 
      9. RIGHT REFLECTION
@@ -97,7 +99,9 @@
          
        - [Reflection of the System]
 
-    
+
+
+
      10. RIGHT SINGULARITY
         
         - [All types of Samadhi-Singularity]
