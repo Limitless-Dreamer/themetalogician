@@ -38,7 +38,7 @@
 ------------------------
 --------------------
    - CLARITY
-   --------------
+
      1. RIGHT VIEW
 
           - [Right-view-explained](Right-view-explained.md)
@@ -58,17 +58,17 @@
 
          - [DEPENDENT-ORIGINATION-CAUSATION](DEPENDENT-ORIGINATION-CAUSATION.md)
 
---------------------------
-     
+
+    
 	 2. RIGHT RESOLVE
 	     - [Right-Resolve-Explained](Right-Resolve-Explained.md)
---------------
+	  
 	 
 	 3. RIGHT EXPERIENCE
 	     - [Experience-Explained](Experience-Explained)
 		 - [16 Experiences for the DRY EXPERIENCE PATH](16-Experiences-for-the-DRY-EXPERIENCE-PATH.md)
 	       
--------------
+
      4. RIGHT LIBERATION
          - Reality is a simulation, a dream, you must escape from it.
          - [The 10 Fetters](The-10-Fetters.md)
@@ -84,9 +84,9 @@
 
       - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
 ---------------
---------------
+----------------
    - SINGULARITY
---------------------  
+
      
      8. RIGHT EFFORT
         
@@ -96,7 +96,7 @@
         
       - [Custom Hindrances Way]
 
--------------------------
+
 
  
 
@@ -110,7 +110,7 @@
          
        - [Reflection of the System]
 
------------------------
+
 
      10. RIGHT SINGULARITY
         
