@@ -98,7 +98,7 @@
         
          - [The 5 Hindrances](The-5-Hindrances.md)
         
-         - [Custom Hindrances Way]
+         - [Custom Hindrances Way](Custom-Hindrances-Way.md)
 
 
 
