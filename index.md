@@ -82,20 +82,28 @@
       - [The 5 Hindrances](The-5-Hindrances.md)
       - [Custom Hindrances Way]
 
+ 
 
      9. RIGHT REFLECTION
+        
        - [Reflection of the Body]
+     
        - [Reflection of the Feelings/stimulus]
+         
        - [Reflection of the Mind]
+         
        - [Reflection of the System]
 
     
     10. RIGHT SINGULARITY
-       - [All types of Samadhi-Singularity]
-       - [Absorption Singularity]
+        
+        - [All types of Samadhi-Singularity]
+   
+        - [Absorption Singularity]
          - [The 10 impediments]
          - [Mastering the Absorption Singularity]
-       - [Momentary Singularity]
+   
+        - [Momentary Singularity]
          - [Observed Reality - 6 SENSE EXPERIENCE - ( +,-,= ) feeling(stimulus)]
          - [Dry-insight-experience-path]
         
