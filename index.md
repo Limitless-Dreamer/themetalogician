@@ -72,7 +72,7 @@
    - SINGULARITY
      8. RIGHT EFFORT
       - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
-      - [The 5 Hindrances]
+      - [The 5 Hindrances](The-5-Hindrances.md)
       - [Custom Hindrances Way]
 
      8. RIGHT REFLECTION
