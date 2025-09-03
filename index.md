@@ -63,6 +63,7 @@
          - [The 10 Fetters](The-10-Fetters.md)
 
    - MORALITY
+     
      5. RIGHT ACTION
      6. RIGHT SPEECH
      7. RIGHT LIVELIHOOD
@@ -70,6 +71,7 @@
       - [Right action-speech-livelihood](Right-action-speech-livelihood.md)
 
    - SINGULARITY
+     
      8. RIGHT EFFORT
       - Starve the mind and the senses from feelings/stimuli, guarding the 6 sense doors.
       - [The 5 Hindrances](The-5-Hindrances.md)
