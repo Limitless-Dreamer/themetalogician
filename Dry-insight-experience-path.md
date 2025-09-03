@@ -479,5 +479,4 @@ This schedule is **intense but doable at home** if you can clear distractions 
 
 ---
 
-Would you like me to also give you a **lighter “daily-life version”** of this retreat, so you can maintain insight practice while working or living normally?
 
