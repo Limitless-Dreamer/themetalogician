@@ -54,7 +54,7 @@
 	     - [Right-Resolve-Explained](Right-Resolve-Explained.md)
 	 
 	 3. RIGHT EXPERIENCE
-	     - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/Experience - Explained|Experience - Explained]]
+	     - [Experience-Explained](Experience-Explained.md)
 		 - [[1. MISSIONS/THE SYSTEM OF THE FOUR NOBLE TRUTHS - Explained - Youtube/16 Experiences for the DRY EXPERIENCE PATH.|16 Experiences for the DRY EXPERIENCE PATH.]]
 	       
 
