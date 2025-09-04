@@ -150,4 +150,4 @@ You will notice changes in the system  from time to time. It’s because the sys
 
 [Privacy Policy](https://policies.google.com/technologies/partner-sites)
 
-Contact Us
+[Contact Us](Contact-us.md)
