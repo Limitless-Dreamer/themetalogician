@@ -22,9 +22,12 @@ What is Right Order ?
 ### **2. ORIGIN**
 
 [How to spot cravings](How-to-spot-cravings.md)
-     1. Craving - Sensory Desire
-     2. Craving - Becoming
-     3. Craving - Non Becoming
+
+1. Craving - Sensory Desire
+	
+2. Craving - Becoming
+	 
+3. Craving - Non Becoming
         
 ------------------
 ------------------
