@@ -11,7 +11,7 @@ title: Home
 ## THE SYSTEM OF THE FOUR NOBLE TRUTHS
 --------------
 --------------
-1. NON-SATISFACTION
+**### 1. NON-SATISFACTION**
 
    - Non-Satisfaction of non-satisfaction (non-satisfaction due to mental and physical things)
    - Non-Satisfaction due to non-permanent nature of satisfaction
@@ -22,8 +22,8 @@ title: Home
 --------------
 ----------------
 
-2. ORIGIN
-
+**### 2. ORIGIN
+**
      [How to spot cravings](How-to-spot-cravings.md)
      1. Craving - Sensory Desire
      2. Craving - Becoming
@@ -32,8 +32,10 @@ title: Home
 ------------------
 ------------------
 
-3. DELETE
-      - Nirvana = to blow out, to be unbound, to become limitless, liberation
+**### 3. DELETE
+**      
+
+- Nirvana = to blow out, to be unbound, to become limitless, liberation
 
      - Dissolving is not the right way, liberation is. 
      - If everyone is the same, then how can there be love.
@@ -43,7 +45,7 @@ title: Home
    
 -----------------
 -----------------
-4. PATH
+**### 4. PATH**
 
 ------------------------
 --------------------
