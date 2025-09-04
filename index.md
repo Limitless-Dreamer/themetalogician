@@ -2,6 +2,9 @@
 
 # CREATION = CHAOS + RIGHT ORDER
 
+What is Right Order ?
+- The Order that is in line with The Four Noble Truths is the Right Order.
+
 ## THE SYSTEM OF THE FOUR NOBLE TRUTHS
 --------------
 --------------
