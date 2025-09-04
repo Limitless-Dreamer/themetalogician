@@ -22,8 +22,7 @@ title: Home
 --------------
 ----------------
 
-**### 2. ORIGIN
-**
+**### 2. ORIGIN**
      [How to spot cravings](How-to-spot-cravings.md)
      1. Craving - Sensory Desire
      2. Craving - Becoming
@@ -32,8 +31,7 @@ title: Home
 ------------------
 ------------------
 
-**### 3. DELETE
-**      
+**### 3. DELETE**      
 
 - Nirvana = to blow out, to be unbound, to become limitless, liberation
 
