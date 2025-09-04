@@ -1,10 +1,4 @@
 
----
-layout: default
-title: Home
----
-
-
 
 # CREATION = CHAOS + RIGHT ORDER
 
