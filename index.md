@@ -1,4 +1,4 @@
-[Menu](Menu.md)            [test-donate](test-donate.md)
+[Menu](Menu.md)          
 
 # CREATION = CHAOS + RIGHT ORDER
 
@@ -145,7 +145,7 @@ What is Right Order ?
 You will notice changes in the system  from time to time. It’s because the system of the 4 Noble Truths is a work in progress.
 
 ---------------------------------------
-[Donate](Donate.html)
+  [test-donate](test-donate.md)
 
 [About Us](About-us.md)
 
