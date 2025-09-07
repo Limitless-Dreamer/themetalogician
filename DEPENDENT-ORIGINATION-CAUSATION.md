@@ -2,29 +2,53 @@
 
 The 12 Nidānas:	 
 
+
 Ignorance
+
 ↓
+
 Formations ( Habits )
+
 ↓
+
 Consciousness ( Understanding/Awareness )
+
 ↓
+
 Name & Form
+
 ↓
+
 Six Sense Bases
+
 ↓
+
 Contact
+
 ↓
+
 Feeling
+
 ↓
+
 Craving
+
 ↓
+
 Clinging ( Attachment )
+
 ↓
+
 Becoming
+
 ↓
+
 Birth
+
 ↓
+
 Old Age & Death
+
  
 The Twelve Nidanas is a linear list of twelve elements from the Buddhist teachings which arise in dependence on the preceding link. While this list may be interpreted as describing the processes which give rise to rebirth, in essence it describes the arising of dukkha as a psychological process, without the involvement of an atman.
 
