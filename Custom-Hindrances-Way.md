@@ -28,4 +28,6 @@ Laziness - Sleepiness
 
 Doubt/Wavering
 
+ - How to get rid of the doubt/wavering - [The Algorithm](The-Algorithm.md)
+
 -----------
