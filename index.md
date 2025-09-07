@@ -33,7 +33,7 @@ What is Right Order ?
 ------------------
 ------------------
 
-### **3. DELETE**      
+### **3. LET IT GO**      
 
 - Nirvana = to blow out, to be unbound, to become limitless, liberation
 
