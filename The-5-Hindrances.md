@@ -58,8 +58,9 @@ Restlessness - Regret
 
 ---------
 
-Doubt/Wavering - little D doubt ( all the thousands of doubts you have everyday)
-               - big D doubt ( doubt about the path )
+Doubt/Wavering 
+   - little D doubt ( all the thousands of doubts you have everyday)
+   - big D doubt ( doubt about the path )
 
 - Indecisiveness
 
