@@ -63,6 +63,9 @@ Doubt/Wavering - little D doubt ( all the thousands of doubts you have everyday)
 
 - Indecisiveness
 
+- How to get rid of the doubt/wavering - [The Algorithm](The-Algorithm.md)
+
+
 ------
 
 https://en.m.wikipedia.org/wiki/Five_hindrances
