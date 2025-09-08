@@ -5,6 +5,7 @@
 What is Right Order ?
 - The Order that is in line with The Four Noble Truths is the Right Order.
 - Right Order leads to Balance & Harmony, whereas Wrong Order only leads back to Chaos.
+- Orden is done while Balance simply is.
 
 ## THE SYSTEM OF THE FOUR NOBLE TRUTHS
 --------------
