@@ -4,6 +4,6 @@
 
 title: themetalogician
 description: "The Four Noble Truths and The Ten Fold Path."
-baseurl: ""            # leave empty for root site
-url: "https://themetalogician.com"
+# baseurl: ""            # leave empty for root site
+# url: "https://themetalogician.com"
 # theme: minima
