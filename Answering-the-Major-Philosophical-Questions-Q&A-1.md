@@ -3,7 +3,7 @@
 ### **1. Existence and Reality**
 
 - What is the meaning of life?
-     - The meaning of life is to be satisficed and make others satisficed.
+     - The meaning of life is to be satisficed(happy) and make others satisficed(happy).
        
 ------------
 - Does God exist?
