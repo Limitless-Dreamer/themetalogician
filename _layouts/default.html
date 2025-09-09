@@ -1,14 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | escape }}</title>
 
-      <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
-      <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <!-- Favicon -->
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
-
-  
+  <!-- Optional: add your CSS/JS here -->
 </head>
-
 <body>
-
-{{ content }}
-      
+  <!-- Page content gets inserted here -->
+  {{ content }}
 </body>
+</html>
