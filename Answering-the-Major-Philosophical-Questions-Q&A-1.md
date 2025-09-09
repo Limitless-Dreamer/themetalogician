@@ -24,7 +24,7 @@
      
      - The more you are bound in the 3 unwholesome roots of temptation, repulsion and delusion the more your reality is determined. Your future can be determined through calculation.
      
-     - The more you reduce the the 3 unwholesome roots and cultivate the the 3 wholesome roots i.e. Satisfaction, Loving-Kindness, Clarity the more ==Free Will== you will have. Your future cannot be determined through calculation.
+     - The more you reduce the the 3 unwholesome roots and cultivate the the 3 wholesome roots i.e. Satisfaction, Loving-Kindness, Clarity the more Free Will you will have. Your future cannot be determined through calculation.
        
 --------------
 
