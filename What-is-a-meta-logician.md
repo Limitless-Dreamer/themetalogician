@@ -1,4 +1,4 @@
-What is Meta Logician ?
+What is a Meta Logician ?
 - It comes from the word Buddha.
 - Buddha means buddhi + dhadha i.e. intellect/logic + beyond/meta. Therefore it means beyond intellect or meta-logic.
 - And applying that to a person means Meta-Logician.
