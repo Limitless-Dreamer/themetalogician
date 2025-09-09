@@ -8,6 +8,7 @@
 ------------
 - Does God exist?
      - It doesn't matter if god /gods exist or not, you should focus on your practice ( The 10 fold path ).
+       
  ------------  
 - What is reality? How do we know what’s real?
      - Reality is what you experience through your 6 sense organs ( Eyes, Ears, Nose, Tongue, Body and Mind ). 
