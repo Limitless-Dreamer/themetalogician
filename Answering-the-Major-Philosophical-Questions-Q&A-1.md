@@ -37,9 +37,10 @@
 - Do we have a soul?
      - No you don't have a permanent soul. You are just a bunch of processes working together to create a self i.e. The Five Clinging Aggregates.
 
-          - What transfers from life to life ?
-             - In **Buddhism**, nothing permanent—no soul or self—transfers from life to life. But **something does continue**, and it’s often described carefully:
-
+- What transfers from life to life ?
+    - Your Action-Exp transfers from life to life.
+	- In **Buddhism**, nothing permanent—no soul or self—transfers from life to life. But **something does continue**, and it’s often described carefully:
+   
 1. **Karma (actions) and karmic results:**  ( Action-Experience )
     
     - Your intentions, thoughts, and actions leave **imprints or seeds**.
