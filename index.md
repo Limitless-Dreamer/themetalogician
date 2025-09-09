@@ -1,6 +1,6 @@
 [Menu](Menu.md)    
 
-[Community](Community.md)
+https://discord.com/api/guilds/1414941055240900681/widget.json
 
 # CREATION = CHAOS + RIGHT ORDER
 
