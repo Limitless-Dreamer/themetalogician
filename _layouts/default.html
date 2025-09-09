@@ -9,10 +9,21 @@
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
-  <!-- Your CSS file (if you had one) -->
+  <!-- Optional CSS -->
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 <body>
-  {{ content }}
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
 </body>
 </html>
