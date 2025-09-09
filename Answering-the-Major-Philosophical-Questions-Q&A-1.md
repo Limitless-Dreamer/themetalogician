@@ -4,6 +4,7 @@
 
 - What is the meaning of life?
      - The meaning of life is to be satisficed and make others satisficed.
+       
 ------------
 - Does God exist?
      - It doesn't matter if god /gods exist or not, you should focus on your practice ( The 10 fold path ).
@@ -14,6 +15,7 @@
      - There is no only objective reality or only subjective reality, reality is both objective and subjective.
      
      - Reality changes when you observe it ( Quantum Mechanics ).
+       
 ---------------------
 
 - Are we free, or is everything determined?
@@ -22,10 +24,12 @@
      - The more you are bound in the 3 unwholesome roots of temptation, repulsion and delusion the more your reality is determined. Your future can be determined through calculation.
      
      - The more you reduce the the 3 unwholesome roots and cultivate the the 3 wholesome roots i.e. Satisfaction, Loving-Kindness, Clarity the more ==Free Will== you will have. Your future cannot be determined through calculation.
+       
 --------------
 
 - What is consciousness?
      - Consciousness is the experience you gain through the 6 Sense bases i.e. there are 6 Sense Experiences/Consciousness. It is an emergent phenomena.
+       
 -----------
 ------------
 
