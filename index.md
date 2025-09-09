@@ -1,4 +1,6 @@
-[Menu](Menu.md)          
+[Menu](Menu.md)    
+
+[Community](Community.md)
 
 # CREATION = CHAOS + RIGHT ORDER
 
