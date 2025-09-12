@@ -40,8 +40,10 @@ What is Right Order ?
 
 - Nirvana = to blow out, to be unbound, to become limitless, liberation
 
-     - Dissolving is not the right way, liberation is. 
+     - Dissolving is not the right way, liberation is.
+ 
      - If everyone is the same, then how can there be love.
+       
      - The difference between people makes love beautiful.
 
      - Liberation is when Experience lets go of the 6 clinging sense-experiences and the 5 clinging aggregates
