@@ -1,4 +1,4 @@
-Email : business+contact@themetalogician.com
+Email : contact@themetalogician.com
 
 ---------------------
 
