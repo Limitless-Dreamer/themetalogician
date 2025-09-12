@@ -3,3 +3,9 @@
 <a href="https://x.com/thmetalogician" target="_blank">
   <i class="fa-brands fa-x-twitter"></i> Follow me on X
 </a>
+
+
+
+<a href="https://instagram.com/yourusername" target="_blank">
+  Follow me on Instagram
+</a>
