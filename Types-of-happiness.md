@@ -57,13 +57,14 @@ Called the highest bliss in the texts: “Nibbānaṃ paramaṃ sukhaṃ.”
 ------------------
 
 ✨ So in short:
-**
-Pleasure → sense-based, fades.
 
-Renunciation → joy of letting go.
 
-Concentration → bliss of meditation.
+**Pleasure → sense-based, fades.**
 
-Insight → happiness of wisdom.
+**Renunciation → joy of letting go.**
 
-Nibbāna → ultimate, unshakable peace.**
+**Concentration → bliss of meditation.**
+
+**Insight → happiness of wisdom.**
+
+**Nibbāna/Nirvana → ultimate, unshakable peace.**
