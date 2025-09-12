@@ -6,6 +6,6 @@
 
 
 
-<a href="https://instagram.com/yourusername" target="_blank">
+<a href="https://instagram.com/themetalogician" target="_blank">
   Follow me on Instagram
 </a>
