@@ -5,3 +5,5 @@
 [What is a Meta-Logician ?](What-is-a-meta-logician.md)
 
 [Ship of Theseus paradox](Ship-of-Theseus-paradox.md)
+
+[Types of Happiness](Types-of-happiness.md)
