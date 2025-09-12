@@ -78,16 +78,21 @@ What is Right Order ?
 
     
 	 2. RIGHT RESOLVE
+
 	     - [Right-Resolve-Explained](Right-Resolve-Explained.md)
 	  
 	 
 	 3. RIGHT EXPERIENCE
+
 	     - [Experience-Explained](Experience-Explained)
+
 		 - [16 Experiences for the DRY EXPERIENCE PATH](16-Experiences-for-the-DRY-EXPERIENCE-PATH.md)
 	       
 
      4. RIGHT LIBERATION
+        
          - The hypothesis is that Reality is a simulation, a dream. Therefore you must escape from it.
+        
          - [The 10 Fetters](The-10-Fetters.md)
            
 ----------------------
