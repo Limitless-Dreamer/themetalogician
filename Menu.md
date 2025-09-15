@@ -7,3 +7,5 @@
 [Ship of Theseus paradox](Ship-of-Theseus-paradox.md)
 
 [Types of Happiness](Types-of-happiness.md)
+
+[Questions on TIME Q&A-2](time.md)
