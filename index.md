@@ -1,4 +1,8 @@
-
+<form method="get" action="https://duckduckgo.com/">
+  <input type="text" name="q" placeholder="Search...">
+  <input type="hidden" name="sites" value="themetalogician.com">
+  <input type="submit" value="Search">
+</form>
 
 
 -------------------
