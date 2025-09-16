@@ -1,11 +1,45 @@
-<head>
 
-  <script async src="https://cse.google.com/cse.js?cx=c4f27841a29f045e0">
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Site stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- Add other <head> includes (favicon, SEO tags, etc.) -->
+
+      <script async src="https://cse.google.com/cse.js?cx=c4f27841a29f045e0">
   </script>
   <div class="gcse-search"></div>
 
-</head>
+    
+    {% include head.html %}
+  </head>
 
-<body>
+  <body>
+    <!-- Site header -->
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      {% include nav.html %}
+    </header>
 
-</body>
+    <!-- Main page/post content -->
+    <main>
+      {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+
+    <!-- Scripts (optional) -->
+    {% include scripts.html %}
+  </body>
+</html>
+
