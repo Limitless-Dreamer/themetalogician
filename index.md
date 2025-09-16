@@ -1,4 +1,5 @@
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5845608593657716"
+     crossorigin="anonymous"></script>
 
 -------------------
 
