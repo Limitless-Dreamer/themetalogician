@@ -2,47 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Search | My Site</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://unpkg.com/lunr/lunr.js"></script>
-  <style>
-    body { font-family: sans-serif; max-width: 700px; margin: 2rem auto; }
-    input { width: 100%; padding: 0.5rem; font-size: 1rem; margin-bottom: 1rem; }
-    .result { margin: 0.5rem 0; }
-  </style>
+  <title>Search</title>
 </head>
 <body>
-  <h1>Search</h1>
-  <input type="text" id="search-box" placeholder="Type to search...">
-  <div id="results"></div>
+  <h1>Search this site</h1>
+  <input type="text" id="search-input" placeholder="Type to search...">
+  <ul id="results-container"></ul>
 
+  <!-- Search library -->
+  <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
   <script>
-    // Load search index (JSON generated automatically)
-    fetch("search.json")
-      .then(response => response.json())
-      .then(docs => {
-        const idx = lunr(function () {
-          this.ref("url");
-          this.field("title");
-          this.field("content");
-          docs.forEach(doc => this.add(doc));
-        });
-
-        const input = document.getElementById("search-box");
-        const resultsDiv = document.getElementById("results");
-
-        input.addEventListener("input", function () {
-          const query = this.value;
-          const results = idx.search(query);
-          resultsDiv.innerHTML = "";
-          results.forEach(r => {
-            const item = docs.find(d => d.url === r.ref);
-            resultsDiv.innerHTML += `<div class="result">
-              <a href="${item.url}">${item.title}</a>
-            </div>`;
-          });
-        });
-      });
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+    })
   </script>
 </body>
 </html>
